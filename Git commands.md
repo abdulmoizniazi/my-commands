@@ -44,6 +44,7 @@ git commit -m "first commit"
 
 
 
+```bash
 git config --global user.name "Moiz Khan"
 git config --global user.email "abdulmoizniazi@gmail.com"
 git config --global push.default matching
@@ -82,7 +83,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/abdulmoizniazi/xxxxxxxx.git
 git push -u origin main
-
-git branch -M main
-git remote add origin https://github.com/abdulmoizniazi/xxxxxxxx.git
-git push -u origin main
+```
