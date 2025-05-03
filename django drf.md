@@ -1,3 +1,4 @@
+``` bash
 pip install dotenv
 pip install djangorestframework
 pip install djangorestframework-simplejwt
@@ -59,3 +60,5 @@ npm install axios react-router-dom jwt-decode
 
 ----------->>>> pages/ styles/ components/  .env
 ----------->>>> src/constants.js  src/api.js
+
+```
