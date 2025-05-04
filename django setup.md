@@ -1,3 +1,4 @@
+``` bash
 python -m venv .venv
 which python
 source .venv/scripts/activate
@@ -12,3 +13,5 @@ py manage.py migrate
 py manage.py shell #testing and checking 
 py manage.py createsuperuser
 py manage.py runserver
+
+```
