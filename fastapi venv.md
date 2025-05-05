@@ -1,3 +1,4 @@
+``` bash
 cd /c/enter/project/directory
 python -m venv .venv
 which python
@@ -54,3 +55,5 @@ Database
 -read one hero (pof)
 -delete a hero (pof)
 -run the app (cli)
+
+```
