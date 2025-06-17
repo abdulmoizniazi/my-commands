@@ -1,4 +1,5 @@
 ``` bash
+export PATH="$(pwd)/.venv/Scripts:$PATH"
 
 git config --global user.name "Moiz Khan"
 git config --global user.email "abdulmoizniazi@gmail.com"
