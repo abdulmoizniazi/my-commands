@@ -1,1 +1,1 @@
-This is a repo
+This is a repo that contains helping commands
