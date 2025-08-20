@@ -12,8 +12,8 @@ pip install -r requirements.txt
 python main.py
 deactivate
 python main.py
-----------------------------------------------------
-----------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
 Initialize git
 git init
 Add a remote repository
