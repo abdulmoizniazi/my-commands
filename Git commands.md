@@ -31,6 +31,8 @@ git pull origin master
 git commit -m "Resolved merge conflicts"
 git push origin master
 
+git restore folder/ (if folder is deleted)
+
 git checkout branch-name   git checkout -b new-branch-name
 git switch branch-name     git switch -c new-branch-name
 git branch        # local branches
